@@ -395,7 +395,11 @@ span {
   }
 
   .portfolio {
-    min-height: 1000vh;
+    min-height: 100vh;
+    padding-bottom: 7rem;
+  }
+  .services {
+    margin-bottom: 4rem;
   }
 }
 
@@ -409,10 +413,6 @@ span {
   }
 
   .services {
-    padding-bottom: 7rem;
-  }
-
-  .portfolio {
     padding-bottom: 7rem;
   }
 
@@ -517,5 +517,9 @@ span {
   .footer p {
     text-align: center;
     margin-top: 2rem;
+  }
+
+  .portfolio-box p {
+    font-size: 1.3rem;
   }
 }
