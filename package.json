@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "parcel": "^2.8.3"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "default": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "author": "Nikola Mitrovic",
+  "license": "ISC"
+}
