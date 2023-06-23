@@ -496,6 +496,10 @@ span {
     font-size: 50%;
   }
 
+  body {
+    padding: 0 10px;
+  }
+
   .contact form .input-box input {
     width: 100%;
   }
